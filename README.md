@@ -8,6 +8,14 @@ Team SWag
 
 ![Introduction](Introduction.jpg)
 
+## Ready To Use
+
+1. OpenCV 4.0 (for SURF --> need contrib)
+
+2. OpenCL 2.2-7
+
+3. yolo v3 model
+
 ## How To Use
 
 1. ./x64/Release/Viewer.exe 실행
