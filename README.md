@@ -6,4 +6,4 @@ Team SWag
 
 ## Introduction
 
-![Introduction](Introduction.pdf)
+![Introduction](Introduction.jpg)
